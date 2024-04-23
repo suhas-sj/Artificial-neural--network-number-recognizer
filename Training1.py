@@ -54,7 +54,7 @@ class Loss_CategoricalCrossEntropy(Loss):
       return negative_log_likelyhoods
    
     
-# layer1 = Layer_dense(2,5)
+# layer1 = Layer_dense(2,5) 
 # layer2 = Layer_dense(5,2)
 # activation1 = Activation_ReLU()
 # layer1.forward(X)
